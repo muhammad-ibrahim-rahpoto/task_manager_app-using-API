@@ -1,7 +1,7 @@
 # task_manager_app-using-API
 The app offers a seamless experience for managing tasks with robust features:
 
-User Authentication: Secure login using credentials from 'https://lnkd.in/gQrVNdCD' and persistent login state with SharedPreferences.
+User Authentication: Secure login using credentials from 'https://dummyjson.com/docs/auth' and persistent login state with SharedPreferences.
 
 Task Management: Effortlessly view, add, edit, and delete tasks. Tasks are fetched from a remote server and available offline.
 
