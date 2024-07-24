@@ -10,5 +10,6 @@ State Management: Leveraging the Provider package to ensure efficient state mana
 Persistent Storage: Utilizing SharedPreferences for storing task data and login states, ensuring persistence across app restarts.
 
 Proud of this project that combines powerful state management, user authentication, and persistent storage to deliver a smooth task management experience. 
+<img src="https://github.com/muhammad-ibrahim-rahpoto/task_manager_app/assets/82776635/32a60069-15d7-489a-83ba-8491b90cc1bd" width="200">
 
  
